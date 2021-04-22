@@ -78,6 +78,11 @@
   html 파일 요청 > 파일 로딩 > dom으로 변환 > Rendering Tree > 요소 위치 배치 > painting
 - 최대한 요소를 적게, 작게 만들어야 rendering tree를 빠르게 만들 수 있다.
 - 사용자가 애니메이션을 쓸 때 paint가 자주 일어나지 않게 해 브라우저 성능을 높인다. [참고 블로그](https://mygumi.tistory.com/238)
+- 리팩토링하며 배운 것
+  - css, image 등 함수보다 리소스를 먼저 불러와야 하는 경우 `addEventListener('load', function())`를 이용하는 것이 좋다
+  - command shift p: 개발툴 팔레트 (layout 확인)
+  - 사용자가 버벅임을 느끼지 않기 위해서 애니메이션이 16.67ms 안에 이뤄져야 함.
+
 
 ## 하루 돌아보기
 
