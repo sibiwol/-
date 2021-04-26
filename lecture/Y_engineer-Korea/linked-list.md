@@ -1,4 +1,4 @@
-### ❗️모두 [엔지니어대한민국](https://youtu.be/Vi0hauJemxA)님의 영상을 보고 정리한 내용입니다. 
+### ❗️모두 [엔지니어대한민국](https://youtube.com/user/damazzang)님의 영상을 보고 정리한 내용입니다. 
 <hr>
 <br/>
 
