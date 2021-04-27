@@ -30,6 +30,9 @@
 | 가지고 있는 노드 주소 위치 | `다음노드` | `전노드` `다음노드` |
 | 포인터 | 앞노드 | 양끝 노드 |
 
+# [단방향 Linked List 구현 in Java](https://youtu.be/IrXYr7T8u_s)
+영상에서는 Java로 구현했기 때문에 Javascript로 구현한 단방향 Linked List [블로그](https://avengersrhydon1121.tistory.com/74)를 찾았다. ~~(사실 잘 이해 못했다.)~~
+
 # [Hash Tabel에 대해 알아보고 구현하기](https://youtu.be/Vi0hauJemxA)
 **Hash Tabel이란?** 검색하고자 하는 key값을 입력 받아서 hash 함수를 돌려서 반환받은 Hacsh Code를 배열에 Index로 환산을 해서 데이터에 접근하는 방식의 자료구조이다. <br/>
 <br/>
