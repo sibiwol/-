@@ -10,6 +10,7 @@ https://html-css-js.com/css/generator/box-shadow/: box shadow <br/>
 
 ### CSS font
 [눈누 폰트](https://noonnu.cc/)
+https://fontawesome.com/: font awesome
 
 ### Language
 https://github.com/dream-ellie/regex: regex 문법 정리 <br/>
