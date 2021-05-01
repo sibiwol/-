@@ -1,7 +1,7 @@
 ### 따라하고 싶은 재밌는 프로젝트
-[fullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/korean)
-[GLSL](https://velog.io/@kimbyungchan/셰이더-보고만-있을-거야)
-[카드 뒤집기 에니메이션](https://velog.io/@gicomong/reverse-card)
+[fullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/korean)<br/>
+[GLSL](https://velog.io/@kimbyungchan/셰이더-보고만-있을-거야)<br/>
+[카드 뒤집기 에니메이션](https://velog.io/@gicomong/reverse-card)<br/>
 
 ### CSS 성능개선
 [CSS Triggers](https://csstriggers.com/) : transition, animation 사용할 때 브라우저 성능 개선을 위해 꼭 체크해보기 <br/>
@@ -14,7 +14,7 @@ https://material.io/resources/color/#!/?view.left=0&view.right=0 : 색상 매치
 https://html-css-js.com/css/generator/box-shadow/: box shadow <br/>
 
 ### CSS font
-[눈누 폰트](https://noonnu.cc/)
+[눈누 폰트](https://noonnu.cc/)<br/>
 https://fontawesome.com/: font awesome
 
 ### Language
