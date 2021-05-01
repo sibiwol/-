@@ -1,3 +1,8 @@
+### 따라하고 싶은 재밌는 프로젝트
+[fullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/korean)
+[GLSL](https://velog.io/@kimbyungchan/셰이더-보고만-있을-거야)
+[카드 뒤집기 에니메이션](https://velog.io/@gicomong/reverse-card)
+
 ### CSS 성능개선
 [CSS Triggers](https://csstriggers.com/) : transition, animation 사용할 때 브라우저 성능 개선을 위해 꼭 체크해보기 <br/>
 
