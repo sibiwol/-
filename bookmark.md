@@ -3,6 +3,12 @@
 [GLSL](https://velog.io/@kimbyungchan/셰이더-보고만-있을-거야)<br/>
 [카드 뒤집기 에니메이션](https://velog.io/@gicomong/reverse-card)<br/>
 
+### Img
+[svg to png](https://svgtopng.com/ko/): <path fill="currentColor" ......></path> 여기 `currentColor`에 원하는 hex컬러 넣으면 됨<br/>
+[resize](https://resizeimage.net/)
+[remove.bg](https://www.remove.bg/ko): 이미지 배경하면 삭제
+
+
 ### CSS 성능개선
 [CSS Triggers](https://csstriggers.com/) : transition, animation 사용할 때 브라우저 성능 개선을 위해 꼭 체크해보기 <br/>
 
