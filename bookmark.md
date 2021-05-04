@@ -13,6 +13,9 @@
 ### CSS 성능개선
 [CSS Triggers](https://csstriggers.com/) : transition, animation 사용할 때 브라우저 성능 개선을 위해 꼭 체크해보기 <br/>
 
+### CSS transition
+[cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+
 ### CSS color
 https://cssgradient.io/: 그라디언트 <br/>
 https://www.gradientmagic.com/collection/simplecircles: 그라디언트 + 원형있는 배경 <br/>
