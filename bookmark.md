@@ -5,7 +5,8 @@
 
 ### Img
 [svg to png](https://svgtopng.com/ko/): <path fill="currentColor" ......></path> 여기 `currentColor`에 원하는 hex컬러 넣으면 됨<br/>
-[resize](https://resizeimage.net/)
+[resize](https://resizeimage.net/)<br/>
+[Tiny png](https://tinypng.com/): 이미지 메모리 작게<br/>
 [remove.bg](https://www.remove.bg/ko): 이미지 배경하면 삭제
 
 
