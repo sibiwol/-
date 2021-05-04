@@ -5,12 +5,16 @@
 
 ### Img
 [svg to png](https://svgtopng.com/ko/): <path fill="currentColor" ......></path> 여기 `currentColor`에 원하는 hex컬러 넣으면 됨<br/>
-[resize](https://resizeimage.net/)
+[resize](https://resizeimage.net/)<br/>
+[Tiny png](https://tinypng.com/): 이미지 메모리 작게<br/>
 [remove.bg](https://www.remove.bg/ko): 이미지 배경하면 삭제
 
 
 ### CSS 성능개선
 [CSS Triggers](https://csstriggers.com/) : transition, animation 사용할 때 브라우저 성능 개선을 위해 꼭 체크해보기 <br/>
+
+### CSS transition
+[cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### CSS color
 https://cssgradient.io/: 그라디언트 <br/>
