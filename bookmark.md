@@ -3,6 +3,10 @@
 [GLSL](https://velog.io/@kimbyungchan/셰이더-보고만-있을-거야)<br/>
 [카드 뒤집기 에니메이션](https://velog.io/@gicomong/reverse-card)<br/>
 
+### 읽을 거리
+[포항공대 교수님이 작성한 교재](http://pl.postech.ac.kr/~gla/cs101/notes/all.pdf)<br/>
+[에어엔비가 리엑트 네이티브에서 네이티브로 바꾼 이유](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
+
 ### Img
 [svg to png](https://svgtopng.com/ko/): <path fill="currentColor" ......></path> 여기 `currentColor`에 원하는 hex컬러 넣으면 됨<br/>
 [resize](https://resizeimage.net/)<br/>
