@@ -38,5 +38,15 @@ https://regexr.com : Regex 연습 사이트 <br/>
 https://regexone.com: regex 퀴즈 사이트 <br/>
 
 ## JavaScript
-### 명세서
+### 명세
 [ECMA](https://www.ecma-international.org/publications-and-standards/standards/)
+
+###스타일
+[에어 비엔비] (https://github.com/airbnb/javascript) <br/>
+[구글](https://google.github.io/styleguide/jsguide.html)
+
+###  JSDoc
+https://jsdoc.app/
+
+### 테스트 자동화
+[모던자바스크립트](https://ko.javascript.info/testing-mocha)
