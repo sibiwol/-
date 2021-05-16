@@ -35,7 +35,7 @@
 ## 배운점
 
 - 모던 자바스크립트 : while, do...while, for, switch, 함수 기본
-- 알고리즘
+- 자료구조
   - 엔지니어대한민국 - [`단방향 Linked List 중간노드 삭제 in Java`](https://www.youtube.com/watch?v=xI4iPEmkHlc&list=PLjSkJdbr_gFZQp0KEoo0Y4KkCI5YqxtjZ&index=8) 시청
   - <그림으로 ...알고리즘> - 피보나치의 수열
 
@@ -43,3 +43,40 @@
 
 - 오늘부터 친구와 `세바시 인생질문`책을 함께 문답함. 고무적인 시간이었다. 이번달 정기적으로 진행할 예정
 - 분명 7시간정도 잤는데 낮잠으로 3시간을 더 잤다.. 확실하게 피곤은 풀었지만 포트폴리오 만드는 시간을 통채로 날렸다. 어떻게 해야 효과적으로 자고 피곤을 물리칠 수 있을까.
+
+# Thu 13
+
+- 자료구조
+  - 엔지니어대한민국 - [`Linked List 값에 따라 나누기 in Java`](https://www.youtube.com/watch?v=xufv1LUy42E&list=PLjSkJdbr_gFZQp0KEoo0Y4KkCI5YqxtjZ&index=9) 시청
+- 모던 자바스크립트:
+  - 함수 선언문, 표현식, 화살표함수
+  - chorm의 개발자 도구 source
+  - 코딩 스타일 - 유명한 스타일 가이드 참고하기(구글, 에어엔비 -bookmark에 추가), ESLint
+  - 주석 사용방법 - 아키텍처 설명/ 함수 용례와 매개변수. JSdoc 참고(-bookmark에 추가)/ 왜 이것을 사용했는지, 왜 이거여만 하는지/
+  - [테스트 자동화 Mocha](https://ko.javascript.info/testing-mocha): 테스트 자동화라는 개념을 처음 접해 헷갈림. 실패할 수밖에 없는 테스트를 추가하고 테스트에서 에러가 나지 않게 코드를 개선하는 것이 규칙. TDD와 BDD 접함. 관련 글 읽어볼 예정
+  - 바벨은 트랜스파일러의 역할과 폴리필의 역할을 함.
+- 포트폴리오 css 마크업까지 완료
+
+# Fri 14
+
+## 배운점
+
+- 소프트 스킬 - TDD. Mocha 작성 방식과 비슷해 보인다.
+- 모던 자바스크립트
+  - 대괄호 표기법.
+  - 얕은 복사(`Object.assign(dest, [src1, src2 ...]`)와 깊은 복사(`_.cloneDeep(value)`)
+  - this는 런타임에 결정된다.
+  - 생성자 함수
+
+# Sat 15
+
+## 배운점
+
+- 포트폴리오 만들기 강의에서 해설 영상을 보기 전 switch문으로 미리 구현해 보았는데 튜터님은 if문을 이용해 아주 깔끔하게 코드를 짜심. 아쉬운 마음에 댓글란에 내가 짠 코드를 올리니
+  ![엘리의 답글](/img)
+
+# Sun 16
+
+## 배운점
+
+## 오늘 돌아보기
