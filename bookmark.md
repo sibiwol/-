@@ -7,6 +7,7 @@
 [포항공대 교수님이 작성한 교재](http://pl.postech.ac.kr/~gla/cs101/notes/all.pdf)<br/>
 [에어엔비가 리엑트 네이티브에서 네이티브로 바꾼 이유](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a) <br/>
 [FE Guide](https://ui.toast.com/fe-guide/ko)
+[영어 단어 정리](https://brunch.co.kr/@hopeless/8)
 
 ### Img
 [svg to png](https://svgtopng.com/ko/): <path fill="currentColor" ......></path> 여기 `currentColor`에 원하는 hex컬러 넣으면 됨<br/>
