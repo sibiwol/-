@@ -6,7 +6,7 @@
 ### 읽을 거리
 [포항공대 교수님이 작성한 교재](http://pl.postech.ac.kr/~gla/cs101/notes/all.pdf)<br/>
 [에어엔비가 리엑트 네이티브에서 네이티브로 바꾼 이유](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a) <br/>
-[FE Guide](https://ui.toast.com/fe-guide/ko)
+[FE Guide](https://ui.toast.com/fe-guide/ko)<br/>
 [영어 단어 정리](https://brunch.co.kr/@hopeless/8)
 
 ### Img
@@ -16,6 +16,11 @@
 [remove.bg](https://www.remove.bg/ko): 이미지 배경하면 삭제<br/>
 [canva](https://www.canva.com)
 
+## CSS
+### SCSS(SASS)
+[완전정복](https://heropy.blog/2018/01/31/sass/)
+[튜토리얼](https://poiemaweb.com/sass-basics)
+[생활코딩](https://opentutorials.org/course/2418/13468)
 
 ### CSS 성능개선
 [CSS Triggers](https://csstriggers.com/) : transition, animation 사용할 때 브라우저 성능 개선을 위해 꼭 체크해보기 <br/>
