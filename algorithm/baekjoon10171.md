@@ -1,4 +1,4 @@
-# [10171 고양이](https://www.acmicpc.net/problem/10171)
+# [#10171 고양이](https://www.acmicpc.net/problem/10171)
 
 날짜: 2021.05.24
 
