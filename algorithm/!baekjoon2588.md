@@ -94,5 +94,7 @@ rl.on('line', function (line) {
 ```
 
 ### readline 문서
-https://github.com/nodejs/node/blob/master/doc/api/readline.md
-http://man.hubwiz.com/docset/NodeJS.docset/Contents/Resources/Documents/nodejs/api/readline.html
+* https://www.npmjs.com/package/readline-sync
+* https://github.com/nodejs/node/blob/master/doc/api/readline.md
+* http://man.hubwiz.com/docset/NodeJS.docset/Contents/Resources/Documents/nodejs/api/readline.html
+* https://stitchcoding.tistory.com/13
