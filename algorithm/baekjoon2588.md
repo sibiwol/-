@@ -1,6 +1,9 @@
 # [#2588 곱셉](https://www.acmicpc.net/problem/2588)
 
-> node.js를 잘 사용하지 못해 계속 틀리는 거 같다. 
+> node.js를 잘 사용하지 못해 계속 틀리는 거 같다. </br>
+> <피드백>
+> + 05.28 두 줄 입력 방법을 몰랐다.
+> + 05.28 문제를 제대로 읽지 않았다. (문제에 두 줄 입력하라고 되어 있었음)
 
 내가 쓴 코드
 1. - 런타임 에러
@@ -61,6 +64,21 @@ rl.on("line", (input) => {
 });
 
 ```
+
+### 해결
+1. 두 줄 입력 시 아래의 과정 필요
+```javascript
+let input = [];
+
+rl.on('line', function (line) {
+    input = line.split(' ').map((el) => parseInt(el));
+  })
+  .on('close', function () {
+    console.log(input[0] + input[1]);
+    process.exit();
+  });
+```
+2. 필요 없는 코드( `const num = input.split(" ");`) 
 
 다른 사람의 코드
 출처 : https://velog.io/@exploit017/2588%EA%B3%B1%EC%85%88
