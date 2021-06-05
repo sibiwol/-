@@ -40,16 +40,17 @@ rl.on("line", (line) => {
 * 나참 어이가 없네. 개행("\n") 문자 넣으니까 시간초과 발생 안함. 뭔 차이인데 
 ```javascript
 let fs = require("fs");
-let input = Number(fs.readFileSync("/dev/stdin").toString());
+let input = fs.readFileSync("/dev/stdin").toString().split("\n");
 
+let count = Number(input[0]);
 let answer = "";
 
-for (let i = 1; i <= input; i++) {
-  answer += i + "\n";
+for (let i = 1; i <= count; i++) {
+  let num = input[i].split(" ");
+  answer += Number(num[0]) + Number(num[1]) + "\n";
+  if (i === input.length) break;
 }
-
 console.log(answer);
-
 ```
 
 
