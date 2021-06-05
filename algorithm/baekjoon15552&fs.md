@@ -37,6 +37,21 @@ rl.on("line", (line) => {
 ```
 
 ### fs
+* 나참 어이가 없네. 개행("\n") 문자 넣으니까 시간초과 발생 안함. 뭔 차이인데 
+```javascript
+let fs = require("fs");
+let input = Number(fs.readFileSync("/dev/stdin").toString());
+
+let answer = "";
+
+for (let i = 1; i <= input; i++) {
+  answer += i + "\n";
+}
+
+console.log(answer);
+
+```
+
 
 ## `fs.js` 모듈 사용 방법
 블로그 => https://hell-world.tistory.com/37
@@ -116,5 +131,4 @@ fs.open("about.txt", "r", function (err, fileId) {
 });
 
 ```
-
 
