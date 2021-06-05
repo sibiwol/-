@@ -132,3 +132,20 @@ fs.open("about.txt", "r", function (err, fileId) {
 
 ```
 
+### 백준 문제풀이 
+**한줄입력**
+``javascript
+let fs = require("fs");
+
+// fs.readFileSync("/dev/stdin") => object
+// fs.readFileSync("/dev/stdin").toString() => string
+// fs.readFileSync("/dev/stdin").toString().split => input 배열에 저장
+let input = fs.readFileSync("/dev/stdin").toString().split(" ");
+
+let a = parseInt(input[0]);
+let b = parseInt(input[1]);
+
+console.log(a+b);
+```
+
+
