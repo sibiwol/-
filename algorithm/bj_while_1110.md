@@ -2,7 +2,8 @@
 
 ## 오답
 ### 1차: 틀렸습니다
-
+* 식 자체를 잘못 씀
+* 
 ```javascript
 const readline = require("readline");
 
@@ -109,4 +110,42 @@ while (true) {
 console.log(num.length - 1);
 
 fs.close();
+```
+
+### n차. 맞았습니다.
+```javascript
+const readline = require("readline");
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
+
+rl.on("line", (line) => {
+  let num = Number(line);
+  let cycle = 0;
+  let answer = 0;
+  let firstInput = num;
+
+  let temp = firstInput;
+
+  if (temp < 10) {
+    temp = "0" + temp;
+  }
+
+  while (true) {    let a = temp % 10;
+    let b = Math.floor(temp / 10);
+
+    answer = String(a) + String((a + b) % 10);
+    temp = answer;
+    cycle++;
+
+    if (temp == firstInput) {
+      break;
+    }
+  }
+
+  console.log(cycle);
+  rl.close();
+});
 ```
