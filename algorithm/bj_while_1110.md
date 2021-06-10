@@ -1,4 +1,4 @@
-# [#1100 더하기 사이클](https://www.acmicpc.net/problem/1110)
+# [#1110 더하기 사이클](https://www.acmicpc.net/problem/1110)
 
 ## 오답
 ### 1차: 틀렸습니다
@@ -75,4 +75,38 @@ rl.on("line", (line) => {
 
   rl.close();
 });
+```
+
+### 3차. 메모리 
+
+```javascript
+let fs = require("fs");
+let input = fs.readFileSync("/dev/stdin").toString();
+let num = [];
+
+num.push(input);
+
+let firstInput = +num[0];
+let answer;
+
+if (firstInput < 10) {
+  firstInput *= 10;
+}
+
+while (true) {
+  let a = +firstInput % 10;
+  let b = Math.floor(+firstInput / 10);
+
+  answer = String(a) + String((a + b) % 10);
+  num.push(firstInput);
+
+  firstInput = answer;
+
+  if (num[0] == firstInput) {
+    break;
+  }
+}
+console.log(num.length - 1);
+
+fs.close();
 ```
